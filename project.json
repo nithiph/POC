@@ -30,7 +30,13 @@
       "includeOriginalXaml": false,
       "privateWorkflows": []
     },
-    "fileInfoCollection": []
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6e147d3b-7550-45d0-b378-0529b0209e97",
+        "fileName": "TestCase.xaml"
+      }
+    ]
   },
   "expressionLanguage": "VisualBasic"
 }
